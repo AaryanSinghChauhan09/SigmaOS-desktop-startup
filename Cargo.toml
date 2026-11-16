@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-desktop-startup"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS desktop-startup component - desktop"
+
+[lib]
+name = "desktop_startup"
+path = "src/lib.rs"

@@ -3,7 +3,7 @@ name = "SigmaOS-desktop-startup"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "desktop-startup component"
+description = "desktop startup"
 upstream = []
 
 [contract]
